@@ -87,4 +87,4 @@ The API should now be accessible at http://localhost:8080.
 
 ## Contact
 
-- Email: karlynl251@gmail.com
+- Email: gabrieldelarosa2928@gmail.com
