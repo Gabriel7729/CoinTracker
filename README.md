@@ -26,7 +26,7 @@ CoinTracker is an application which sole purpose is to keep track of your transa
 
 1. Clone the repository:
 ```
-git clone https://github.com/KarlynG/CoinTracker.git
+git clone https://github.com/Gabriel7729/CoinTracker.git
 ```
 2. Navigate to the project directory:
 
